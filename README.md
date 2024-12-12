@@ -22,5 +22,5 @@ Open the data_cleaning.ipynb file in Jupyter Notebook or JupyterLab and execute 
 3.**View the Data Profile**:
 Open the ydata_profile.html file in any browser to explore the data profiling results.
 
-4. **Refer to the PDF**:
+4.**Refer to the PDF**:
 For a detailed explanation, you can review the Procedure to clean the data.pdf file, which outlines the entire data cleaning workflow and methodology.
